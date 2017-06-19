@@ -5,3 +5,23 @@ Description: One Page theme
 Version: 0.0.1
 Tags: one-page
 */
+
+/*https://coolors.co/000000-ffb400-e2d4b7-4b5043-023618*/
+
+body {
+  background-color: #4b5043;
+}
+
+.blog-masthead {
+  background-color: #023618;
+}
+
+.blog-nav li {
+    position: relative;
+    display: inline-block;
+    padding: 10px;
+    font-weight: 500;
+}
+.blog-nav li a {
+    color: #fff;
+}
