@@ -12,6 +12,10 @@ body {
   background-color: #4b5043;
 }
 
+.blog-post {
+  background-color: #E2D4B7;
+}
+
 .blog-masthead {
   background-color: #023618;
 }
@@ -19,7 +23,7 @@ body {
 .blog-nav li {
     position: relative;
     display: inline-block;
-    padding: 10px;
+    padding: 20px;
     font-weight: 500;
 }
 .blog-nav li a {
